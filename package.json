@@ -1,0 +1,19 @@
+{
+  "name": "repositorio-henry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "archivo-ejempl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operozo/repositorio-Henry.git"
+  },
+  "author": "Oswaldo Perozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operozo/repositorio-Henry/issues"
+  },
+  "homepage": "https://github.com/operozo/repositorio-Henry#readme"
+}

@@ -247,5 +247,3 @@ module.exports = {
   deEuroAdolar,
   esVocal,
 };
-© 2022 GitHub, Inc.
-Terms
